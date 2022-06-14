@@ -111,3 +111,11 @@
     box-shadow: inset 150px 0 0 0 #54b3d6;
     color: white;
   }
+
+  a.anchor {
+    display: block;
+    position: relative;
+    top: -100px;
+    visibility: hidden;
+}
+  
