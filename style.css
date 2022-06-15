@@ -96,6 +96,18 @@
     opacity: 1;
   }
 
+  h1 {
+    color: rgb(70, 70, 196);
+  }
+
+  h2 {
+    color: rgb(155, 64, 155);
+  }
+
+  p{
+    color: #CC313D;
+  }
+
   h5 {
     font-size: 20px;
   }
